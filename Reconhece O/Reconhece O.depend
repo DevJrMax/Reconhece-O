@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1508780948 source:c:\users\juninho max\documents\uespi\bloco vi\computação gráfica\opencv\reconhece o\main.cpp
+	<iostream>
+	<windows.h>
+	<random>
+	<string>
+	<stdio.h>
+	<time.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+
